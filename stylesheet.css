@@ -1,0 +1,73 @@
+::-moz-selection { /* Code for Firefox */
+
+}
+
+::selection {
+    color: #311673;
+    background: #aa8bff;
+}
+
+.purplebox{
+width: 28em;
+height: 35em;
+margin: auto;
+background-color: #311673;
+margin-top: 1.5%;
+}
+body{
+  background-color: #f5f5f5;
+}
+
+.headerLogo img{
+  width: 21em;
+  padding-top: 1.5em;
+  margin: auto;
+  margin-left: 3em;
+
+}
+.link{
+  display: inline-block;
+  margin-top: -7em;
+
+  margin-bottom: 1em;
+  margin-left: 2em;
+z-index: 5;
+}
+
+
+.link p a{
+  text-decoration: none;
+  color: white;
+}
+.link p{
+  border: 1.5px solid #ffffff;
+  float: left;
+  margin-top: -2em;
+  padding: 9px;
+  font-family: 'Roboto', sans-serif;
+
+  z-index: 5;
+}
+.link p:nth-of-type(2){
+  margin-left: 0.75em;
+}
+
+.wcsl img{
+  width: 6.5em;
+  padding-top: 1.5em;
+  margin: auto;
+  margin-left: 10.5em;
+
+}
+.data{
+  padding: 2em;
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.85em;
+}
+
+.wroking_desk img{
+  width: 28em;
+  padding-top: 0em;
+margin-top: -0.5em;
+}
